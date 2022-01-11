@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-BIT_2",
+      "appliesTo": "BIT_2/",
+      "type": "launch"
+    }
+  ]
+}
